@@ -1,6 +1,6 @@
 Name:		texlive-autofancyhdr
 Version:	54049
-Release:	1
+Release:	2
 Summary:	Automatically compute headlength for fancyhdr package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autofancyhdr
