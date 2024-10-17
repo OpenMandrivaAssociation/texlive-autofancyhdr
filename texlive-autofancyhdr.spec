@@ -3,7 +3,7 @@ Version:	54049
 Release:	2
 Summary:	Automatically compute headlength for fancyhdr package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autofancyhdr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/autofancyhdr
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autofancyhdr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autofancyhdr.doc.r%{version}.tar.xz
